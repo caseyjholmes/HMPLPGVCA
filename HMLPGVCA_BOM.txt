@@ -1,0 +1,10 @@
+Qty Value                 Device                Package            Parts      Description                                       POPULARITY SPICEPREFIX
+1   .1uf                  C-USC0805K            C0805K             C1         CAPACITOR, American symbol                        19         C          
+1   10k                   R-US_R0805            R0805              R3         RESISTOR, American symbol                         85         R          
+1   24.9k                 R-US_R0805            R0805              R1         RESISTOR, American symbol                         85         R          
+1   2k                    R-US_R0805            R0805              R2         RESISTOR, American symbol                         85         R          
+1   A1M                   9MM_SNAP-IN_POT_      9MM_SNAP-IN_POT    BLEND_I/O  9mm vertical snap-in pot, Alpha / Panasonic style                       
+1   B100K                 9MM_SNAP-IN_POT_      9MM_SNAP-IN_POT    CV_ATT     9mm vertical snap-in pot, Alpha / Panasonic style                       
+1   MTS-102               ebay switch           SW1                                                                                
+3   THONKICONNNEW         THONKICONNNEW         WQP-PJ301M-12_JACK J1, J2, J3 3.5mm socket for Eurorack modular synths                                
+1   VACTROL               VACTROL_4PIN          VACTROL_4PIN_VTL5C VACTROL    4 Pin Vactrol Resistive Photocoupler                                    
